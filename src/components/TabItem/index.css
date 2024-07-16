@@ -1,0 +1,20 @@
+/* Write your CSS here */
+li {
+  list-style: none;
+  padding-right: 20px;
+  font-weight: 600;
+}
+
+button {
+  cursor: pointer;
+  font-size: 20px;
+  color: #7b8794;
+}
+
+.active-btn {
+  color: #2563eb;
+}
+
+tab-btn {
+  color: #7b8794;
+}

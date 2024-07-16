@@ -1,0 +1,10 @@
+/* Write your CSS here */
+button {
+  background: none;
+  border: none;
+}
+
+img {
+  height: 90px;
+  width: 90px;
+}
